@@ -171,22 +171,3 @@ a.active {
 #ticket-confirmation-area h1 {
     color: rgb(0, 75, 35);
 }
-
-#cross-sign {
-    position: absolute;
-    top: 30px;
-    right: 30px;
-    height: 40px;
-    width: 40px;
-    font-size: 25px;
-    font-weight: bold;
-    background-color: red;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    color: white;
-}
-
-.bill-amount-section {
-    margin-top: 10px;
-}
